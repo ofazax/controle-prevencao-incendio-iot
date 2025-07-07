@@ -1,0 +1,2 @@
+É de extrema importância que as pastas contidas dentro da pasta "libraries" sejam utilizadas em conjunto com o código do esp32.
+Essa pasta deve conter as bibliotecas utilizadas no ARDUINO IDE, portanto o conteúdo desta pasta deve ser colocado na pasta "libraries" do ARDUINO IDE.
